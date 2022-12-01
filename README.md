@@ -67,10 +67,12 @@ Keyboards:
 - Razer Cynosa V2
 - Razer Deathstalker Chroma
 - Razer Deathstalker Expert
+- Razer Deathstalker V2 Pro TKL (wired)
 - Razer Huntsman
 - Razer Huntsman Elite
 - Razer Huntsman Mini
 - Razer Huntsman Mini (JP)
+- Razer Huntsman Mini Analog
 - Razer Huntsman Tournament Edition
 - Razer Huntsman V2
 - Razer Huntsman V2 TKL

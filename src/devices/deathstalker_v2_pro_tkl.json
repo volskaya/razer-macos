@@ -1,0 +1,21 @@
+{
+  "name": "Razer Deathstalker V2 Pro TKL",
+  "productId": "0x0298",
+  "mainType": "keyboard",
+  "image": "https://assets2.razerzone.com/images/pnx.assets/631875fd0b3b4ab3cdf9be06b4e85aa9/razer-deathstalker-v2-pro-tenkeyless-available-in-desktop-v2.jpg",
+  "features": null,
+  "featuresConfig": [
+    {
+      "ripple": {
+        "rows": 6,
+        "cols": 18
+      }
+    },
+    {
+      "wheel": {
+        "rows": 6,
+        "cols": 18
+      }
+    }
+  ]
+}
